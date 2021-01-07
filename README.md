@@ -17,15 +17,11 @@ The dataset includes 291 training images and 14 test images.
 
 ------------------
 <p align="center">
-  <img src="2007_000033.jpg">
+  <img src="25098.png">
 </p>
 
 <p align="center">
-  <img src="2007_000129.jpg">
-</p>
-
-<p align="center">
-  <img src="2007_000175.jpg">
+  <img src="26031.png">
 </p>
 
 -------------------
@@ -42,11 +38,15 @@ trainer.train()
 
 ## Results
 ------------------
-<p align="center">
-  <img src="test2.png">
-  <img src="test4.png">
-  <img src="test5.png">
-</p>
+image before scale 3
+
+<img src="04.png">
+
+
+image before scale 3
+<img src="06.png">
+
+
 
 -------------------
 
