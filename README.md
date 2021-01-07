@@ -25,14 +25,19 @@ python main.py
 
 ## Results
 ------------------
-image before scale 3
+image before upscaling
 
 <img src="04.png">
+image after upscaling
 
+<img src="04_1.png">
 
-image before scale 3
+image before upscaling
 <img src="06.png">
 
+image after upscaling
+
+<img src="06_1.png">
 
 
 -------------------
