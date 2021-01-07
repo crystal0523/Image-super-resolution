@@ -20,9 +20,9 @@ The dataset includes 291 high resolution training images and 14 low resolution t
 ## Train
 
 Use the following commands to start the training process. 
-To see more detailed steps, refer to  ```main.py ``` .
+To see more detailed steps, refer to  ```train.py ``` .
 ```
-python main.py
+python train.py
 ```
 
 ## Results
