@@ -8,7 +8,7 @@ The purpose of this project is to do image super resolution on low resolution pi
   ```
   
 ## Dataset
-The dataset includes 291 training images and 14 test images.
+The dataset includes 291 high resolution training images and 14 low resolution testing images.
 
 ------------------
   <img src="25098.png">
