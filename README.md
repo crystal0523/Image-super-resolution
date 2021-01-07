@@ -32,9 +32,11 @@ image after upscaling
 
 <img src="04_1.png">
 
-image before upscaling
-<img src="06.png">
 
+
+image before upscaling
+
+<img src="06.png">
 image after upscaling
 
 <img src="06_1.png">
