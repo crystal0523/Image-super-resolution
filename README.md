@@ -1,6 +1,6 @@
 # Image-super-resolution
 
-The purpose of this project is to do image super resolution on low resolution pictures and to get high resolution one, we mainly use VDSR as our model architecture.
+The purpose of this project is to do image super resolution on low resolution pictures and to get high resolution one, mainly use VDSR as our model architecture.
 ## Environment
 
  ```
